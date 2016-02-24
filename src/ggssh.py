@@ -110,7 +110,6 @@ def ggssh_config():
 	
 def ggssh_show():
 	fopen = os.popen("cat %s/ggssh.alias" % (ggssh_base)).readlines()
-	print fopen
 	for line in fopen:
 		print line.strip()
 
