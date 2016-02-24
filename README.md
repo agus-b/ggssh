@@ -3,7 +3,10 @@ ssh alias &amp; manager tools
 
 # installation
 
-```$ git clone https://github.com/agus-b/ggssh.git```
+```
+$ git clone https://github.com/agus-b/ggssh.git
+# bash install.sh 
+```
 
 
 # how to?
