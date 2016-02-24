@@ -14,6 +14,8 @@ SSH Alias []: domain
 SSH User []: username
 SSH IP/Host []: domain.com
 SSH Identity Key []: /home/user/Documents/ssh_rsa
+$ ggssh apply
+$ . ~/.bashrc
 ```
 
 # help
