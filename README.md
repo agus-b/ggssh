@@ -10,10 +10,10 @@ an ssh alias &amp; manager tools
 
 ```
 $ ggssh add
-SSH Alias []: ci.gdplabs.id
-SSH User []: ubuntu
-SSH IP/Host []: ci.gdplabs.id
-SSH Identity Key []: /home/abi/Downloads/ci_gdplabs_id
+SSH Alias []: domain
+SSH User []: username
+SSH IP/Host []: domain.com
+SSH Identity Key []: /home/user/Documents/ssh_rsa
 ```
 
 # help
