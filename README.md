@@ -1,5 +1,5 @@
 # ggssh
-an ssh alias &amp; manager tools
+ssh alias &amp; manager tools
 
 # installation
 
