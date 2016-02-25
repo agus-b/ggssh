@@ -9,7 +9,6 @@
 
 import os
 import sys
-import subprocess
 import ConfigParser
 
 
@@ -74,7 +73,6 @@ def ggssh_apply():
 		f = open("%s/ggssh.alias" % (ggssh_base),"a")
 		f.write(cmd_alias)
 		f.close()
-		subprocess.call("source %s/ggssh.alias" % (ggssh_base), shell=True)
 
 def ggssh_config():
 	ssh_alias = raw_input("Alias Name: ")
